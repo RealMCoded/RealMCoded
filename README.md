@@ -1,4 +1,4 @@
-game dev i think. 
+dev i think. 
 
 i also [make videos](https://youtube.com/stuarttmcoded) and [other shit that i posted on my website](https://mcoded.xyz/downloads.html)
 
