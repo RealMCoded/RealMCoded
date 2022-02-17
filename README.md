@@ -2,6 +2,7 @@ dev i think.
 
 i also [make videos](https://youtube.com/stuarttmcoded) and [other shit that i posted on my website](https://mcoded.xyz/downloads.html)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RealMCoded&count_private=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RealMCoded&theme=github_dark)
 
-i stole the theme from [zai](https://github.com/zai-tm)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RealMCoded&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RealMCoded&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RealMCoded&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RealMCoded&theme=github_dark)
