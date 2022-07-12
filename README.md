@@ -1,6 +1,8 @@
-dev i think. 
+i make games in gamemaker and other stuff in javascript.
 
 i also [make videos](https://youtube.com/stuarttmcoded) and [other shit that i posted on my website](https://mcoded.xyz/downloads.html)
+
+⬇️ shit ton of useless widgets look at me goooooooo ⬇️
 
 ![](https://discord.c99.nl/widget/theme-1/284804878604435476.png)
 
