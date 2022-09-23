@@ -1,6 +1,6 @@
 i make games in gamemaker and other stuff in javascript.
 
-i also [make videos](https://youtube.com/stuarttmcoded) and [other shit that i posted on my website](https://mcoded.xyz/downloads.html)
+checkout my website: [mcoded.xyz](https://mcoded.xyz/) | i also made the 404 page for the [Progressbar95 Fan Discord Server Website](https://pb95discord.cf/404.html)
 
 ⬇️ shit ton of useless widgets look at me goooooooo ⬇️
 
