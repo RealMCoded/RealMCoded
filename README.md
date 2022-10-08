@@ -10,7 +10,7 @@ i mainly program in GML (Game Maker Language) and Javascript, but i am currently
 
 Best way to contact me is via Discord ([stuartt#2419](https://discord.com/users/284804878604435476), my DMs are open unless otherwise stated)
 
-![](https://discord.c99.nl/widget/theme-1/284804878604435476.png)
+[![](https://discord.c99.nl/widget/theme-1/284804878604435476.png)](https://discord.com/users/284804878604435476)
 
 # 
 
