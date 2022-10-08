@@ -4,9 +4,9 @@
 # 
 
 
-i type code and it magically works.
+*"i type code and it magically works."* - stuartt's tagline, circa 2022
 
-i mainly program in GML (Game Maker Language) and Javascript, but i am currently learning Rust and C#.
+I mainly program in GML (Game Maker Language) and Javascript, but i am currently learning Rust and C#.
 
 Best way to contact me is via Discord ([stuartt#2419](https://discord.com/users/284804878604435476), my DMs are open unless otherwise stated)
 
