@@ -4,9 +4,17 @@
 # 
 
 
-i make games in gamemaker and other random stuff in javascript.
+i type code and it magically works.
+# 
 
-checkout my website: [mcoded.xyz](https://mcoded.xyz/) | i also made the 404 page for the [Progressbar95 Fan Discord Server Website](https://pb95discord.cf/404.html)
+### Cool links
+
+[mcoded.xyz](https://mcoded.xyz/) (my website)
+
+[pb95discord.cf](https://pb95discord.cf/) (i did some things for them, also head admin in the Discord)
+
+
+
 
 ⬇️ shit ton of useless widgets look at me goooooooo ⬇️
 
