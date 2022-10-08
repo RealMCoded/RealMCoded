@@ -5,20 +5,27 @@
 
 
 i type code and it magically works.
+
+i mainly program in GML (Game Maker Language) and Javascript, but i am currently learning Rust and C#.
+
+Best way to contact me is via Discord ([stuartt#2419](https://discord.com/users/284804878604435476), my DMs are open unless otherwise stated)
+
+![](https://discord.c99.nl/widget/theme-1/284804878604435476.png)
+
 # 
 
 ### Cool links
+</div>
 
 [mcoded.xyz](https://mcoded.xyz/) (my website)
 
 [pb95discord.cf](https://pb95discord.cf/) (i did some things for them, also head admin in the Discord)
 
+<div align="center">
 
+# 
 
-
-⬇️ shit ton of useless widgets look at me goooooooo ⬇️
-
-![](https://discord.c99.nl/widget/theme-1/284804878604435476.png)
+### Cool widgets
   
 [![wakatime](https://wakatime.com/badge/user/d262f742-f024-4cd6-bd3b-05145a89e4b0.svg)](https://wakatime.com/@d262f742-f024-4cd6-bd3b-05145a89e4b0)
 
