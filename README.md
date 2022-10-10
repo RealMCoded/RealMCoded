@@ -6,8 +6,6 @@
 
 *"i type code and it magically works."* - stuartt's tagline, circa 2022
 
-I mainly program in GML (Game Maker Language) and Javascript, but i am currently learning Rust and C#.
-
 **Languages i program in**
 
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
