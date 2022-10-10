@@ -8,6 +8,16 @@
 
 I mainly program in GML (Game Maker Language) and Javascript, but i am currently learning Rust and C#.
 
+**Languages i program in**
+
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
+![GML Badge](./GML.svg)
+
+**Languages i am learning**
+
+![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=for-the-badge)
+![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=for-the-badge)
+
 Best way to contact me is via Discord ([stuartt#2419](https://discord.com/users/284804878604435476), my DMs are open unless otherwise stated)
 
 [![](https://discord.c99.nl/widget/theme-1/284804878604435476.png)](https://discord.com/users/284804878604435476)
