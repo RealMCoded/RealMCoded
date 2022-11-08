@@ -27,7 +27,7 @@ Best way to contact me is via Discord ([stuartt#2419](https://discord.com/users/
 
 [mcoded.xyz](https://mcoded.xyz/) (my website)
 
-[pb95discord.cf](https://pb95discord.cf/) (i did some things for them, also head admin in the Discord)
+[pb95discord.cf](https://pb95discord.cf/) (i did some things for them, also co-owner of the Discord)
 
 <div align="center">
 
