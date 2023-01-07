@@ -4,7 +4,9 @@
 # 
 
 
-*"i type code and it magically works."* - stuartt's tagline, circa 2022
+*"i make code do things"* - stuartt's tagline, circa 2023
+  
+  I mainly write Discord Bots using Javascirpt and discord.js, but I have made some other projects as well!
 
 **Languages i program in**
 
@@ -13,10 +15,10 @@
 
 **Languages i am learning**
 
-![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=for-the-badge)
 
-Best way to contact me is via Discord ([stuartt#2419](https://discord.com/users/284804878604435476), my DMs are open unless otherwise stated)
+Best way to contact me is via Discord ([stuartt#5679](https://discord.com/users/284804878604435476), my DMs are open unless otherwise stated)
 
 [![](https://discord.c99.nl/widget/theme-1/284804878604435476.png)](https://discord.com/users/284804878604435476)
 
