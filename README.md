@@ -6,14 +6,17 @@
 
 *"i make code do things"* - stuartt's tagline, circa 2023
   
-  I mainly write Discord Bots using Javascirpt and discord.js, but I have made some other projects as well!
 
-**Languages i program in**
+
+### Languages i program in
+  
+*aka languages i know enough abou that I can make something work with little to no help*
 
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
 ![GML Badge](./GML.svg)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-**Languages i am learning**
+### Languages I am learning / want to learn at some point
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=for-the-badge)
