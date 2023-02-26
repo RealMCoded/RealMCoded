@@ -32,7 +32,7 @@ Best way to contact me is via Discord ([stuartt#5679](https://discord.com/users/
 
 [mcoded.xyz](https://mcoded.xyz/) (my website)
 
-[pb95discord.cf](https://pb95discord.cf/) (i did some things for them, also co-owner of the Discord)
+[pb95discord.com](https://pb95discord.com/) (i did some things for them, also co-owner of the Discord)
 
 <div align="center">
 
