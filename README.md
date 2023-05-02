@@ -42,6 +42,8 @@ Best way to contact me is via Discord ([stuartt#5679](https://discord.com/users/
   
 [![wakatime](https://wakatime.com/badge/user/d262f742-f024-4cd6-bd3b-05145a89e4b0.svg)](https://wakatime.com/@d262f742-f024-4cd6-bd3b-05145a89e4b0)
 
+*(wakatime is as of Oct 5 2022)*
+  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RealMCoded&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RealMCoded&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RealMCoded&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RealMCoded&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RealMCoded&theme=github_dark)
