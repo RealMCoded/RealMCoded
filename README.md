@@ -21,7 +21,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=for-the-badge)
 
-Best way to contact me is via Discord ([stuartt#5679](https://discord.com/users/284804878604435476), my DMs are open unless otherwise stated)
+Best way to contact me is via Discord ([@stuartt](https://discord.com/users/284804878604435476), my DMs are open unless otherwise stated)
 
 [![](https://discord.c99.nl/widget/theme-1/284804878604435476.png)](https://discord.com/users/284804878604435476)
 
