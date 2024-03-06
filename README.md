@@ -32,8 +32,6 @@ Best way to contact me is via Discord ([@stuartt](https://discord.com/users/2848
 
 [mcoded.xyz](https://mcoded.xyz/) (my website)
 
-[pb95discord.com](https://pb95discord.com/) (i did some things for them, also co-owner of the Discord)
-
 <div align="center">
 
 # 
