@@ -1,7 +1,7 @@
 <div align="center">
 <a href="https://mcoded.xyz/"><img src="./gitHello.png" alt="Yo! It's stuartt (or MCoded, or stuartt_mcoded)"></a>
 
-# 
+---
 
 
 *"i make code do things"* - stuartt's tagline, circa 2023
@@ -14,7 +14,6 @@
 
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
 ![GML Badge](./GML.svg)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ### Languages I am learning / want to learn at some point
 
@@ -25,7 +24,7 @@ Best way to contact me is via Discord ([@stuartt](https://discord.com/users/2848
 
 ![status](https://api.statusbadges.me/badge/status/284804878604435476?simple=true) ![playing](https://api.statusbadges.me/badge/playing/284804878604435476)
 
-# 
+---
 
 ### Cool links
 </div>
@@ -34,7 +33,7 @@ Best way to contact me is via Discord ([@stuartt](https://discord.com/users/2848
 
 <div align="center">
 
-# 
+---
 
 ### Cool widgets
   
