@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://mcoded.xyz/"><img src="./gitHello.png" alt="Yo! It's stuartt (or MCoded, or stuartt_mcoded)"></a>
+<a href="https://mcoded.xyz/"><img src="./assets/gitHello.png" alt="Yo! It's stuartt (or MCoded, or stuartt_mcoded)"></a>
 
 ---
 
@@ -8,28 +8,54 @@
   
 
 
-### Languages i program in
+### Languages I program in
   
 *aka languages i know enough abou that I can make something work with little to no help*
 
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
-![GML Badge](./GML.svg)
+![GML Badge](./assets/GML.svg)
 
 ### Languages I am learning / want to learn at some point
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=for-the-badge)
 
-Best way to contact me is via Discord ([@stuartt](https://discord.com/users/284804878604435476), my DMs are open unless otherwise stated)
-
-![status](https://api.statusbadges.me/badge/status/284804878604435476?simple=true) ![playing](https://api.statusbadges.me/badge/playing/284804878604435476)
-
 ---
 
-### Cool links
+<img src="./assets/contact.png" alt="Contact me!">
+
+I am pretty much everywhere, it's hard to miss me...
+
+<i>Note: not every platform I use is here, like cohost, becuase I never use it.</i>
+
+|Icon|Meaning|
+|---|---|
+|⭐|Best way to contact me|
+|🔵|Platform has no DM feature|
+
 </div>
 
-[mcoded.xyz](https://mcoded.xyz/) (my website)
+⭐ Discord ([@stuartt](https://discord.com/users/284804878604435476), DMs open) ![status](https://api.statusbadges.me/badge/status/284804878604435476?simple=true) ![playing](https://api.statusbadges.me/badge/playing/284804878604435476)
+
+⭐ Email (stuartt_mcoded [at] mcoded.xyz)
+
+⭐ Twitter ([@stuartwith2ts](twitter.com/stuartwith2ts))
+
+⭐ Escargot WLM (stuarttmcoded@escargot.chat)
+
+⭐ NINA AIM (stuarttmcoded)
+
+⭐ NINA Yahoo (stuarttmcoded)
+
+Tumblr ([stuartt-mcoded](https://stuartt-mcoded.tumblr.com/))
+
+Mastodon ([@stuartt@mstdn.social](https://mstdn.social/@stuartt))
+
+🔵 Bluesky ([@mcoded.xyz](https://bsky.app/profile/mcoded.xyz))
+
+🔵 YouTube ([@stuarttmcoded](https://www.youtube.com/c/stuarttmcoded))
+
+Reddit ([u/mcoded](https://www.reddit.com/user/MCoded/))
 
 <div align="center">
 
