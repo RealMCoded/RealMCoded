@@ -51,7 +51,7 @@ Tumblr ([stuartt-mcoded](https://stuartt-mcoded.tumblr.com/))
 
 Mastodon ([@stuartt@mstdn.social](https://mstdn.social/@stuartt))
 
-🔵 Bluesky ([@mcoded.xyz](https://bsky.app/profile/mcoded.xyz))
+Bluesky ([@mcoded.xyz](https://bsky.app/profile/mcoded.xyz))
 
 🔵 YouTube ([@stuarttmcoded](https://www.youtube.com/c/stuarttmcoded))
 
