@@ -43,9 +43,7 @@ I am pretty much everywhere, it's hard to miss me...
 
 ⭐ Escargot WLM (stuarttmcoded@escargot.chat)
 
-⭐ NINA AIM (stuarttmcoded)
-
-⭐ NINA Yahoo (stuarttmcoded)
+⭐ NINA AIM/ICQ (stuarttmcoded)
 
 Tumblr ([stuartt-mcoded](https://stuartt-mcoded.tumblr.com/))
 
