@@ -41,8 +41,6 @@ I am pretty much everywhere, it's hard to miss me...
 
 ⭐ Twitter ([@stuartwith2ts](twitter.com/stuartwith2ts))
 
-⭐ Escargot WLM (stuarttmcoded@escargot.chat)
-
 ⭐ NINA AIM/ICQ (stuarttmcoded)
 
 Tumblr ([stuartt-mcoded](https://stuartt-mcoded.tumblr.com/))
@@ -54,6 +52,8 @@ Bluesky ([@mcoded.xyz](https://bsky.app/profile/mcoded.xyz))
 🔵 YouTube ([@stuarttmcoded](https://www.youtube.com/c/stuarttmcoded))
 
 Reddit ([u/mcoded](https://www.reddit.com/user/MCoded/))
+
+Escargot WLM (stuarttmcoded@escargot.chat) (don't use this as much anymore)
 
 <div align="center">
 
