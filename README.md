@@ -39,7 +39,7 @@ I am pretty much everywhere, it's hard to miss me...
 
 ⭐ Email (stuartt_mcoded [at] mcoded.xyz)
 
-⭐ Twitter ([@stuartwith2ts](twitter.com/stuartwith2ts))
+⭐ Twitter ([@stuartwith2ts](https://twitter.com/stuartwith2ts))
 
 ⭐ NINA AIM/ICQ (stuarttmcoded)
 
