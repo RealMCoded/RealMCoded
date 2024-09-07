@@ -39,7 +39,7 @@ I am pretty much everywhere, it's hard to miss me...
 
 ⭐ Email (stuartt_mcoded [at] mcoded.xyz)
 
-⭐ Twitter ([@stuartwith2ts](https://twitter.com/stuartwith2ts))
+⭐ Bluesky ([@mcoded.xyz](https://bsky.app/profile/mcoded.xyz))
 
 ⭐ NINA AIM/ICQ (stuarttmcoded)
 
@@ -47,7 +47,7 @@ Tumblr ([stuartt-mcoded](https://stuartt-mcoded.tumblr.com/))
 
 Mastodon ([@stuartt@mstdn.social](https://mstdn.social/@stuartt))
 
-Bluesky ([@mcoded.xyz](https://bsky.app/profile/mcoded.xyz))
+Twitter ([@stuartwith2ts](https://twitter.com/stuartwith2ts))
 
 🔵 YouTube ([@stuarttmcoded](https://www.youtube.com/c/stuarttmcoded))
 
