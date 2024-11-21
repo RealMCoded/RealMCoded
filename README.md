@@ -39,21 +39,15 @@ I am pretty much everywhere, it's hard to miss me...
 
 ⭐ Email (stuartt_mcoded [at] mcoded.xyz)
 
-⭐ Bluesky ([@mcoded.xyz](https://bsky.app/profile/mcoded.xyz))
+⭐ Bluesky ([@mcoded.xyz](https://bsky.app/profile/stuartt.ca))
 
 ⭐ NINA AIM/ICQ (stuarttmcoded)
 
 Tumblr ([stuartt-mcoded](https://stuartt-mcoded.tumblr.com/))
 
-Mastodon ([@stuartt@mstdn.social](https://mstdn.social/@stuartt))
-
-Twitter ([@stuartwith2ts](https://twitter.com/stuartwith2ts))
-
 🔵 YouTube ([@stuarttmcoded](https://www.youtube.com/c/stuarttmcoded))
 
 Reddit ([u/mcoded](https://www.reddit.com/user/MCoded/))
-
-Escargot WLM (stuarttmcoded@escargot.chat) (don't use this as much anymore)
 
 <div align="center">
 
