@@ -24,28 +24,19 @@
 
 I am pretty much everywhere, it's hard to miss me...
 
-<i>Note: not every platform I use is here, like cohost, becuase I never use it.</i>
-
-|Icon|Meaning|
-|---|---|
-|⭐|Best way to contact me|
-|🔵|Platform has no DM feature|
+<i>Note: not every platform I use is here, like reddit, becuase I never use it.</i>
 
 </div>
 
-⭐ Discord ([@stuartt](https://discord.com/users/284804878604435476), DMs open) ![status](https://api.statusbadges.me/badge/status/284804878604435476?simple=true) ![playing](https://api.statusbadges.me/badge/playing/284804878604435476)
+Discord ([@stuartt](https://discord.com/users/284804878604435476), DMs open) ![status](https://api.statusbadges.me/badge/status/284804878604435476?simple=true) ![playing](https://api.statusbadges.me/badge/playing/284804878604435476)
 
-⭐ Email (stuartt_mcoded [at] mcoded.xyz)
+Email (contact [at] stuartt [dot] ca)
 
-⭐ Bluesky ([@mcoded.xyz](https://bsky.app/profile/stuartt.ca))
+Bluesky ([@mcoded.xyz](https://bsky.app/profile/stuartt.ca))
 
-⭐ NINA AIM/ICQ (stuarttmcoded)
+Tweeeter (twitter) ([stuartwith2ts](https://twitter.com/stuartwith2ts))
 
 Tumblr ([stuartt-mcoded](https://stuartt-mcoded.tumblr.com/))
-
-🔵 YouTube ([@stuarttmcoded](https://www.youtube.com/c/stuarttmcoded))
-
-Reddit ([u/mcoded](https://www.reddit.com/user/MCoded/))
 
 <div align="center">
 
