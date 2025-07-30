@@ -32,7 +32,7 @@ Discord ([@stuartt](https://discord.com/users/284804878604435476), DMs open) ![s
 
 Email (contact [at] stuartt [dot] ca)
 
-Bluesky ([@mcoded.xyz](https://bsky.app/profile/stuartt.ca))
+Bluesky ([@stuartt.ca](https://bsky.app/profile/stuartt.ca))
 
 Tweeeter (twitter) ([stuartwith2ts](https://twitter.com/stuartwith2ts))
 
