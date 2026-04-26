@@ -1,10 +1,7 @@
 <div align="center">
-<a href="https://mcoded.xyz/"><img src="./assets/gitHello.png" alt="Yo! It's stuartt (or MCoded, or stuartt_mcoded)"></a>
+<a href="https://stuartt.ca/"><img src="./assets/gitHello.png" alt="Yo! It's stuartt (or MCoded, or stuartt_mcoded)"></a>
 
 ---
-
-
-*"i make code do things"* - stuartt's tagline, circa 2023
   
 
 
@@ -24,21 +21,7 @@
 
 I am pretty much everywhere, it's hard to miss me...
 
-<i>Note: not every platform I use is here, like reddit, becuase I never use it.</i>
-
-</div>
-
-Discord ([@stuartt](https://discord.com/users/284804878604435476), DMs open) ![status](https://api.statusbadges.me/badge/status/284804878604435476?simple=true) ![playing](https://api.statusbadges.me/badge/playing/284804878604435476)
-
-Email (contact [at] stuartt [dot] ca)
-
-Bluesky ([@stuartt.ca](https://bsky.app/profile/stuartt.ca))
-
-Tweeeter (twitter) ([stuartwith2ts](https://twitter.com/stuartwith2ts))
-
-Tumblr ([stuartt-mcoded](https://stuartt-mcoded.tumblr.com/))
-
-<div align="center">
+You can find my links [here!](https://stuartt.ca)
 
 ---
 
